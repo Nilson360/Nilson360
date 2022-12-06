@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Nilson360
-- My full name is Nilson da Silva SIMAO
-- I'm student at Hexagone School in French 
+- 👋 Hi, I’m Nilson da Silva 
+- 🌱 I’m currently learning PHP, JavaScript and Java
+- 🔭 I'm student at Hexagone School in French 
 - 👀 I’m interested in Back-end development and CyberSecurity
 <!---
 Nilson360/Nilson360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
