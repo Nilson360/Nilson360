@@ -7,12 +7,8 @@ Nilson360/Nilson360 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <div>
-<a href="https://github.com/Nilson360">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nilson36&include_all_commits=true0&count_private=false&show_icons=true&theme=yeblu"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilson360&layout=compact&langs_count=10&theme=yeblu" />
-
-
+  <a href="https://github.com/Nilson360">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nilson360&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilson360&layout=compact&langs_count=8&theme=yeblu"/>
 </div>
-
-
+  
