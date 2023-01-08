@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
    <img width="60" height="60" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg">
    <p></p>
    <img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-   <img width="60" height="60" src="https://cdn.worldvectorlogo.com/logos/php-1.svg">
+   <img width="60" height="40" src="https://cdn.worldvectorlogo.com/logos/php-1.svg">
    <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
    <img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
