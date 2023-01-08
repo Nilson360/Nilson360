@@ -8,16 +8,22 @@ You can click the Preview link to take a look at your changes.
 --->
 <!--- Langages and tools--->
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
  <div>
    <img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
    <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">
    <img width="60" height="60" src="https://cdn.worldvectorlogo.com/logos/docker.svg">
+   <img width="60" height="60" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg">
+   <img width="60" height="60" src="https://user-images.githubusercontent.com/84663139/211196093-16741c53-ca08-462f-a453-aa0366d5aa1c.png">
+   <img width="60" height="60" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg">
+   <p></p>
    <img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
    <img width="60" height="60" src="https://cdn.worldvectorlogo.com/logos/php-1.svg">
    <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
    <img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
+   <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
+   <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
+   <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
  </div>
 
 <hr>
