@@ -5,8 +5,25 @@
 <!---
 Nilson360/Nilson360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-
 --->
+<!--- Langages and tools--->
+
+<h3 align="left">Languages and Tools:</h3>
+ <div>
+   <img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+   <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">
+   <img width="60" height="60" src="https://cdn.worldvectorlogo.com/logos/docker.svg">
+   <img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+   <img width="60" height="60" src="https://cdn.worldvectorlogo.com/logos/php-1.svg">
+   <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+   <img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+ </div>
+
+<hr>
+
+<!--- Github stats--->
+
  <div>
   <a href="https://github.com/Nilson360">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nilson360&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
