@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
  <a href="#"><img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"></a>
  <a href="#"><img width="60" height="60" src="https://cdn.worldvectorlogo.com/logos/docker.svg"></a>
  <a href="#"><img width="60" height="60" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg"></a>
- <a href="#"><img width="60" height="60" src="https://user-images.githubusercontent.com/84663139/211196093-16741c53-ca08-462f-a453-aa0366d5aa1c.png"></a
+ <a href="#"><img width="60" height="60" src="https://user-images.githubusercontent.com/84663139/211196093-16741c53-ca08-462f-a453-aa0366d5aa1c.png"></a>
  <a href="#"><img width="60" height="60" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"></a>
    <p></p>
 <a href="#"><img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
