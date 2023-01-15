@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
  </div>
 
 <hr>
-<h3 align="left">My Tryhackme profil </h3>
+<h3 align="left">My Tryhackme profile </h3>
 <img height="65em" src="https://tryhackme-badges.s3.amazonaws.com/mrkBoys.png" alt="TryHackMe">
 
 <!--- Github stats--->
