@@ -27,7 +27,8 @@ You can click the Preview link to take a look at your changes.
 
 <hr>
 <h3 align="left">My Tryhackme profile </h3>
-<a href="https://tryhackme.com/p/mrkBoys" target="_blank"> <img height="55em" src="https://tryhackme-badges.s3.amazonaws.com/mrkBoys.png" alt="TryHackMe"></>
+<a href="[https://tryhackme.com/p/mrkBoys](https://tryhackme-badges.s3.amazonaws.com/mrkBoys.png)" target="_blank"> <img src="https://tryhackme-badges.s3.amazonaws.com/mrkBoys.png" alt="TryHackMe">
+</>
 
 <!--- Github stats--->
 <h3 align="left">My Github stats </h3>
