@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nilson da Silva 
-- 🌱 I’m currently learning PHP, JavaScript and Java
+- 🌱 I’m currently learning PHP, JavaScript, Python,C/C++ and Java
 - 🔭 I'm student at Hexagone School in French 
 - 👀 I’m interested in Back-end development and CyberSecurity
 <!---
