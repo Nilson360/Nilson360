@@ -1,7 +1,10 @@
-- 👋 Hi, I’m Nilson da Silva 
-- 🌱 I’m currently learning PHP, JavaScript, Python and C/C++ 
-- 🔭 I'm student at Hexagone School at Versailles, France 
-- 👀 I’m interested in Back-end development and CyberSecurity
+## 👋 Hi, I’m Nilson da Silva
+
+- 💼 I’m a back-end developer specializing in PHP/Symfony  
+- 🐧 I'm passionate about Linux systems and embedded development  
+- 🔧 In my free time, I study C/C++ and low-level programming  
+- 🔐 I’m also interested in cybersecurity and system internals  
+- 📍 Based in Dijon, France  
 <!---
 Nilson360/Nilson360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
